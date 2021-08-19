@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MOcpP5b81EuowDewgZGuaeT5PfHOsrc5BgLn/5O9muMTyqRJrdUpPEH0gWD1girHEe7Mv1jP2TPzfvqbdu2yjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Felipe\\Desktop\\Netcore\\mediator\\DemoLibrary\\DemoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felipe\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

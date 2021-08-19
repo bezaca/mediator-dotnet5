@@ -1,0 +1,12 @@
+C:\Users\Felipe\Desktop\Netcore\mediator\Demolibrary\bin\Debug\net5.0\Demolibrary.deps.json
+C:\Users\Felipe\Desktop\Netcore\mediator\Demolibrary\bin\Debug\net5.0\Demolibrary.dll
+C:\Users\Felipe\Desktop\Netcore\mediator\Demolibrary\bin\Debug\net5.0\ref\Demolibrary.dll
+C:\Users\Felipe\Desktop\Netcore\mediator\Demolibrary\bin\Debug\net5.0\Demolibrary.pdb
+C:\Users\Felipe\Desktop\Netcore\mediator\Demolibrary\obj\Debug\net5.0\Demolibrary.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\Netcore\mediator\Demolibrary\obj\Debug\net5.0\Demolibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Netcore\mediator\Demolibrary\obj\Debug\net5.0\Demolibrary.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Netcore\mediator\Demolibrary\obj\Debug\net5.0\Demolibrary.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Netcore\mediator\Demolibrary\obj\Debug\net5.0\Demolibrary.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Netcore\mediator\Demolibrary\obj\Debug\net5.0\Demolibrary.dll
+C:\Users\Felipe\Desktop\Netcore\mediator\Demolibrary\obj\Debug\net5.0\ref\Demolibrary.dll
+C:\Users\Felipe\Desktop\Netcore\mediator\Demolibrary\obj\Debug\net5.0\Demolibrary.pdb
